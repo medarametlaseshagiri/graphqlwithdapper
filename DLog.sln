@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLog", "DLog.csproj", "{70C16C66-66F7-4989-8C23-38A38E366DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C16C66-66F7-4989-8C23-38A38E366DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C16C66-66F7-4989-8C23-38A38E366DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C16C66-66F7-4989-8C23-38A38E366DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C16C66-66F7-4989-8C23-38A38E366DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C62C58-B66E-447B-866A-123552778264}
+	EndGlobalSection
+EndGlobal
